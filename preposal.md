@@ -2,7 +2,7 @@
 
 ## What idea(s) do you have for your final project?
 
-Remaking a Pokémon-inspired game I found on YouTube.
+Remaking a Pokémon-inspired game found on YouTube.
 
 A Discord bot
 
