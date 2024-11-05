@@ -1,5 +1,4 @@
 # preposal
 Preposal for final project in Intro to Python
 
-
-lmao
+we don't need that bruh
